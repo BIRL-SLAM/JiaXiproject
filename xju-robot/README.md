@@ -1,19 +1,10 @@
 # XJU ROBOT
-
-![teaser](figures/teaser.gif)
-
 XJU-ROBOT is an open-source project based on ROS (Robot Operating System), providing a **simulation** environment for various heterogeneous robots. It integrates various algorithms such as **pnc**, **slam**, **perception**, etc., and can be used for relevant practitioners to study and develop.
 
 **Table of Contents**
-- [Installation](#installation)
 - [Getting Started](#getting-started)
-- [Video](#video)
 - [License](#license)
 - [Citation](#citation)
-
-## Installation
-
-[Install ROS Noetic](http://wiki.ros.org/noetic/Installation/Ubuntu)
 
 ---
 
