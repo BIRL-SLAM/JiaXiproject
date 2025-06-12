@@ -36,12 +36,6 @@ roslaunch xju_simu simple_world.launch
 roslaunch xju_pnc move_base_flex.launch
 ```
 
-## Video
-
-A series of instructional videos detailing the usage of XJU-ROBOT is available. The provided link directs to the initial episode, from which viewers can access subsequent episodes.
-
-[XJU移动机器人仿真-第1期 环境搭建（gazebo模型 插件 urdf rviz）](https://www.bilibili.com/video/BV1be4y1z7cr/?share_source=copy_web)
-
 ## License
 
 All resources in XJU-ROBOT are licensed under fully permissive licenses (e.g., Apache-2.0).
