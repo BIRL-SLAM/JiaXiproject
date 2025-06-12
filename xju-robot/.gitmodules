@@ -1,0 +1,30 @@
+[submodule "src/thirdparty/gmapping"]
+	path = src/thirdparty/gmapping
+	url = https://github.com/ros-perception/slam_gmapping.git
+	branch = melodic-devel
+[submodule "src/thirdparty/openslam_gmapping"]
+        path = src/thirdparty/openslam_gmapping
+        url = https://github.com/ros-perception/openslam_gmapping.git
+        branch = melodic-devel
+[submodule "src/thirdparty/navigation"]
+	path = src/thirdparty/navigation
+	url = https://github.com/Mr-Tony921/navigation.git
+[submodule "src/thirdparty/teb_local_planner"]
+	path = src/thirdparty/teb_local_planner
+	url = https://github.com/rst-tu-dortmund/teb_local_planner.git
+	branch = noetic-devel
+[submodule "src/thirdparty/costmap_converter"]
+	path = src/thirdparty/costmap_converter
+	url = https://github.com/rst-tu-dortmund/costmap_converter.git
+	branch = master
+[submodule "src/thirdparty/move_base_flex"]
+	path = src/thirdparty/move_base_flex
+	url = https://github.com/magazino/move_base_flex.git
+	branch = noetic
+[submodule "src/thirdparty/amcl3d"]
+	path = src/thirdparty/amcl3d
+	url = https://github.com/Mr-Tony921/amcl3d.git
+[submodule "src/thirdparty/navigation_experimental"]
+	path = src/thirdparty/navigation_experimental
+	url = https://github.com/ros-planning/navigation_experimental.git
+	branch = noetic-devel

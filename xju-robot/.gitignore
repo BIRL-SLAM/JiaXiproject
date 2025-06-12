@@ -1,0 +1,15 @@
+build/
+devel/
+install/
+#thirdparty/
+*/cmake-build-debug/
+.idea/
+*.bag
+*.bin
+src/CMakeLists.txt
+.catkin_workspace
+.catkin_tools
+*.tar.gz 
+.vscode
+*.grid
+*/gazebo_plugins/
