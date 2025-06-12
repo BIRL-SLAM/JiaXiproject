@@ -1,4 +1,3 @@
-# myproject
 ## A navigation project
 
 ## Notice
